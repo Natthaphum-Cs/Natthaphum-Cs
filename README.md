@@ -6,7 +6,7 @@
 
 <br/>
 </div>
----
+
 ## 🚀 About Me
 
 > **Academic Lecturer & Researcher** specializing in **AI, GeoAI, Large Language Models (LLMs), Remote Sensing,** and **Data Science** applied to **Disaster Management**. Passionate about building robust fullstack applications, autonomous AI agent workflows, and cloud-native software architecture.
