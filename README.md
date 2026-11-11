@@ -5,9 +5,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=Computer+Science+%26+Geoinformatics+Lecturer;AI+%2F+GeoAI+%2F+Remote+Sensing+Researcher;Fullstack+Developer+%26+LLM+Architect)
 
 <br/>
-<br/><br/>
 </div>
-
+---
 ## 🚀 About Me
 
 > **Academic Lecturer & Researcher** specializing in **AI, GeoAI, Large Language Models (LLMs), Remote Sensing,** and **Data Science** applied to **Disaster Management**. Passionate about building robust fullstack applications, autonomous AI agent workflows, and cloud-native software architecture.
