@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Natthaphum Saenphai.
 
+## คติประจำใจ
+ให้เวลาผม 1 วัน
+ผมจะเก่งกว่าผมวันนี้
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=Computer+Science+%26+Geoinformatics+Lecturer;AI+%2F+GeoAI+%2F+Remote+Sensing+Researcher;Fullstack+Developer+%26+LLM+Architect)
