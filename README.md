@@ -13,13 +13,13 @@
 
 ## 🚀 About Me
 
-> **Academic Lecturer & Researcher** specializing in **AI, GeoAI, Large Language Models (LLMs), Remote Sensing,** and **Data Science** applied to **Disaster Management**. Passionate about building robust fullstack applications, autonomous AI agent workflows, and cloud-native software architecture.
+> **นักศึกษาวิทยาการคอมพิวเตอร์ (Computer Science)** คณะเทคโนโลยีสารสนเทศและการสื่อสาร (ICT) มหาวิทยาลัยพะเยา มีความสนใจและหลงใหลในการพัฒนาซอฟต์แวร์ Fullstack, การประยุกต์ใช้ AI และเทคโนโลยีสมัยใหม่เพื่อแก้ปัญหาจริง
 
-* 🎓 **Role:** Academic Lecturer & PhD Candidate in Computer Science & Applied Geoinformatics
-* 🔬 **Research Focus:** GeoAI, Spatial Analytics, LLM Architectures & Remote Sensing
-* 💼 **Currently Working On:** Developing modern web application architectures & Cloud-native workflows
-* 💬 **Ask Me About:** AI/GeoAI Research, Fullstack Development, GIS, or Local LLM deployments
-* ⚡ **Fun Fact:** I once debugged an issue while on a roller coaster! 🎢
+- 🎓 **การศึกษา:** นิสิตสาขาวิชาวิทยาการคอมพิวเตอร์ (CS) คณะเทคโนโลยีสารสนเทศและการสื่อสาร (ICT) มหาวิทยาลัยพะเยา
+- 🔬 **ความสนใจหลัก:** Software Development, Artificial Intelligence (AI), Web & Mobile Applications และ Data Science *(สามารถปรับเปลี่ยนตามสายที่ถนัดได้เลย)*
+- 💼 **สิ่งที่กำลังทำอยู่:** พัฒนาโปรเจกต์ Web Application, ฝึกเขียนโค้ด และเรียนรู้เทคโนโลยีใหม่ๆ อย่างต่อเนื่อง
+- 💬 **ถามฉันได้เกี่ยวกับ:** การเขียนโปรแกรม, การพัฒนาเว็บ/แอปพลิเคชัน, โปรเจกต์สาย CS หรือชีวิตการเรียนในรั้ว ม.พะเยา
+- ⚡ **Fun Fact:** สามารถเขียนโค้ดหรือแก้บั๊กได้ในทุกสถานการณ์ แม้ในวันที่เดดไลน์ใกล้เข้ามา! 🚀
 
 ---
 
